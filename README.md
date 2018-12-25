@@ -8,7 +8,7 @@ As soon as he turns away and the webcam cannot recognize it, a black screen will
 # Other features
 In this project the frames are saved in the current directory, from where the main.py script is run.
 
-Furhter, recorded video in .avi format is saved to the current directory.
+Further, recorded video in .avi format is saved to the current directory.
 
 # Requirements
 You must have:
