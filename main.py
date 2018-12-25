@@ -2,8 +2,8 @@ import cv2, time
 
 video = cv2.VideoCapture(1)
 
-# fourcc = cv2.VideoWriter_fourcc(*'XVID')
-# out = cv2.VideoWriter('output.avi', fourcc, 15.0, (640, 480))
+fourcc = cv2.VideoWriter_fourcc(*'XVID')
+out = cv2.VideoWriter('output.avi', fourcc, 15.0, (640, 480))
 
 numframes = 0
 
